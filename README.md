@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/hikayatmelayu/hikayatmelayu.github.io">
+  <a rel="noopener noreferrer" href="https://github.com/hikayatmelayu/hikayatmelayu.github.io">
     <img src="https://hikayatmelayu.github.io/icon.png"
          alt="Hikayat Melayu - Open Malay Manuscripts Research"
          title="Hikayat Melayu - Open Malay Manuscripts Research"
@@ -28,7 +28,7 @@
   <p align="center">
     The official documentation for end users and developers
     <br />
-    <a href="https://hikayatmelayu.github.io/"><strong>View Complete Wiki »</strong></a>
+    <a rel="noopener noreferrer" href="https://hikayatmelayu.github.io/"><strong>View Complete Wiki »</strong></a>
     <br />
   </p>
 </p>
